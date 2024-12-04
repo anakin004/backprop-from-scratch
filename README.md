@@ -11,9 +11,8 @@ Based on Andrej Karpathy lecture on the basis of neural networks from the ground
 
 
 +---+
-this demo might not seem like a conventional neural network but it represent the neural network in how all the weights and biases
-and mathmatical operations like add, sub, divide, mult, tanh, pow, etc, result in a specific node 
 
 -- this demo and other visualizations in the jupyter notebook file use graphviz which I highly recommend checking out in the project reqs
+-- this image is a visualization of the calculation of the loss function
 
 ![image](https://github.com/user-attachments/assets/576a1ebc-f0c4-4dd9-a772-e79a1b5ceac2)
