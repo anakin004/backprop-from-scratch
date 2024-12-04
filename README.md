@@ -9,9 +9,15 @@ Based on Andrej Karpathy lecture on the basis of neural networks from the ground
 -- uses gradient descent to change weights and biases based on the nodes current gradient
 -- after passes the neural nets results approach intended data
 
--- here are some awesome practices regarding topics in this project https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing
--- Also check out Andrej Karpathy - https://karpathy.ai/zero-to-hero.html
+-- here are some awesome practices regarding topics in this project 
+---
+https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing
+---
 
+-- Also check out Andrej Karpathy 
+--- 
+https://karpathy.ai/zero-to-hero.html
+---
 +---+
 
 -- this demo and other visualizations in the jupyter notebook file use graphviz which I highly recommend checking out in the project reqs
