@@ -21,6 +21,6 @@ https://karpathy.ai/zero-to-hero.html
 +---+
 
 -- this demo and other visualizations in the jupyter notebook file use graphviz which I highly recommend checking out in the project reqs
--- this image is a visualization of the calculation of the loss function
+-- this image is a visualization of the calculation of the loss function and setting gradients using backprop
 
 ![image](https://github.com/user-attachments/assets/576a1ebc-f0c4-4dd9-a772-e79a1b5ceac2)
