@@ -1,26 +1,21 @@
+# AutoGrad-Eng
 
+## Educational Project
+AutoGrad-Eng is an educational project based on Andrej Karpathy's lecture on the fundamentals of neural networks from the ground up. It includes:
 
-== educational project
+- **Value Nodes** for weights, biases, results, etc.
+- **Visualization of backpropagation** and neural network nodes and operations that result in a specific node.
+- **Stochastic Gradient Descent (SGD)** for all nodes.
+- **Gradient descent optimization**, which updates weights and biases based on the node's current gradient.
+- After multiple passes, the neural network's results approach the intended data.
 
-Based on Andrej Karpathy lecture on the basis of neural networks from the ground up
--- includes Value Nodes for weights, biases, reslults etc
--- visualization of backprop and neural network nodes and operations that results in a specific node
--- includes stochastic gradient descent for all nodes
--- uses gradient descent to change weights and biases based on the nodes current gradient
--- after passes the neural nets results approach intended data
+## Additional Learning Resources
+Here are some awesome practices related to topics covered in this project:
 
--- here are some awesome practices regarding topics in this project 
----
-https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing
----
+- [Google Colab Notebook](https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing)
+- Also, check out Andrej Karpathy's course: [Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
--- Also check out Andrej Karpathy 
---- 
-https://karpathy.ai/zero-to-hero.html
----
-+---+
-
--- this demo and other visualizations in the jupyter notebook file use graphviz which I highly recommend checking out in the project reqs
--- this image is a visualization of the calculation of the loss function and setting gradients using backprop
+#### Example Visualization
+Below is an image illustrating the calculation of the loss function and setting gradients using backpropagation:
 
 ![image](https://github.com/user-attachments/assets/576a1ebc-f0c4-4dd9-a772-e79a1b5ceac2)
