@@ -16,6 +16,6 @@ Here are some awesome practices related to topics covered in this project:
 - Also, check out Andrej Karpathy's course: [Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 #### Example Visualization
-Below is an image illustrating the calculation of the loss function and setting gradients using backpropagation:
+Below is an image illustrating the calculation of the loss function and setting gradients using backpropagation with graphviz:
 
 ![image](https://github.com/user-attachments/assets/576a1ebc-f0c4-4dd9-a772-e79a1b5ceac2)
