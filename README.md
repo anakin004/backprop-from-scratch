@@ -3,11 +3,13 @@
 ## Educational Project
 AutoGrad-Eng is an educational project based on Andrej Karpathy's lecture on the fundamentals of neural networks from the ground up. It includes:
 
-- **Value Nodes** for weights, biases, results, etc.
-- **Visualization of backpropagation** and neural network nodes and operations that result in a specific node.
-- **Stochastic Gradient Descent (SGD)** for all nodes.
-- **Gradient descent optimization**, which updates weights and biases based on the node's current gradient.
-- After multiple passes, the neural network's results approach the intended data.
+## Features
+- Custom computation for backpropagation.
+- Stochastic Gradient Descent (SGD) applied to all nodes.
+- Visualizations for neural network computations.
+- **Derivative Calculations**: Includes examples of calculating derivatives directly in the network using ValueNodes.
+- **PyTorch Example**: Demonstrates how backpropagation concepts translate to PyTorch with paralell example.
+
 
 ## Additional Learning Resources
 Here are some awesome practices related to topics covered in this project:
