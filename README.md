@@ -1,7 +1,6 @@
 # AutoGrad-Eng
 
-## Educational Project
-AutoGrad-Eng is an educational project based on Andrej Karpathy's lecture on the fundamentals of neural networks from the ground up. It includes:
+based on Andrej Karpathy's lecture on the fundamentals of neural networks from the ground up
 
 ## Features
 - Custom computation for backpropagation.
